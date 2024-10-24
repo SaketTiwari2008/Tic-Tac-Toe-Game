@@ -1,3 +1,4 @@
+alert("This site is developed by Saket Tiwari with ❤️..");
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelectorAll("#reset-btn");
 let newGameBtn = document.querySelectorAll("#new-btn");
